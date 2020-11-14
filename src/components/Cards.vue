@@ -52,7 +52,7 @@ export default {
 }
 @media only screen and (max-width: 1200px) {
   .card-item {
-     margin: 0 10px;
+     margin:0 10px;
   }
 }
 @media only screen and (max-width: 760px) {
