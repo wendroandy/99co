@@ -50,7 +50,7 @@ export default {
 .scrollable {
   transition: transform cubic-bezier(0.075, 0.82, 0.165, 1) 0.6s;
 }
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1200px) {
   .card-item {
      margin: 0 10px;
   }

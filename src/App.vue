@@ -178,7 +178,7 @@ body {
   width: 100%;
   height: 100%;
 }
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1200px) {
   body {
     padding-top: 20px;
   }
